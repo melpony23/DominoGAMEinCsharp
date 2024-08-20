@@ -1,0 +1,28 @@
+C:\Users\mcast\OneDrive\Documents\Disenho Detallado\Domino\Domino\bin\Debug\net8.0\Domino.exe
+C:\Users\mcast\OneDrive\Documents\Disenho Detallado\Domino\Domino\bin\Debug\net8.0\Domino.deps.json
+C:\Users\mcast\OneDrive\Documents\Disenho Detallado\Domino\Domino\bin\Debug\net8.0\Domino.runtimeconfig.json
+C:\Users\mcast\OneDrive\Documents\Disenho Detallado\Domino\Domino\bin\Debug\net8.0\Domino.dll
+C:\Users\mcast\OneDrive\Documents\Disenho Detallado\Domino\Domino\bin\Debug\net8.0\Domino.pdb
+C:\Users\mcast\OneDrive\Documents\Disenho Detallado\Domino\Domino\obj\Debug\net8.0\Domino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcast\OneDrive\Documents\Disenho Detallado\Domino\Domino\obj\Debug\net8.0\Domino.AssemblyInfoInputs.cache
+C:\Users\mcast\OneDrive\Documents\Disenho Detallado\Domino\Domino\obj\Debug\net8.0\Domino.AssemblyInfo.cs
+C:\Users\mcast\OneDrive\Documents\Disenho Detallado\Domino\Domino\obj\Debug\net8.0\Domino.csproj.CoreCompileInputs.cache
+C:\Users\mcast\OneDrive\Documents\Disenho Detallado\Domino\Domino\obj\Debug\net8.0\Domino.dll
+C:\Users\mcast\OneDrive\Documents\Disenho Detallado\Domino\Domino\obj\Debug\net8.0\refint\Domino.dll
+C:\Users\mcast\OneDrive\Documents\Disenho Detallado\Domino\Domino\obj\Debug\net8.0\Domino.pdb
+C:\Users\mcast\OneDrive\Documents\Disenho Detallado\Domino\Domino\obj\Debug\net8.0\Domino.genruntimeconfig.cache
+C:\Users\mcast\OneDrive\Documents\Disenho Detallado\Domino\Domino\obj\Debug\net8.0\ref\Domino.dll
+C:\Users\mcast\OneDrive - Universidad Católica de Chile\Octavo semestre\Disenho detallado\Domino(1)\Domino\bin\Debug\net8.0\Domino.exe
+C:\Users\mcast\OneDrive - Universidad Católica de Chile\Octavo semestre\Disenho detallado\Domino(1)\Domino\bin\Debug\net8.0\Domino.deps.json
+C:\Users\mcast\OneDrive - Universidad Católica de Chile\Octavo semestre\Disenho detallado\Domino(1)\Domino\bin\Debug\net8.0\Domino.runtimeconfig.json
+C:\Users\mcast\OneDrive - Universidad Católica de Chile\Octavo semestre\Disenho detallado\Domino(1)\Domino\bin\Debug\net8.0\Domino.dll
+C:\Users\mcast\OneDrive - Universidad Católica de Chile\Octavo semestre\Disenho detallado\Domino(1)\Domino\bin\Debug\net8.0\Domino.pdb
+C:\Users\mcast\OneDrive - Universidad Católica de Chile\Octavo semestre\Disenho detallado\Domino(1)\Domino\obj\Debug\net8.0\Domino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcast\OneDrive - Universidad Católica de Chile\Octavo semestre\Disenho detallado\Domino(1)\Domino\obj\Debug\net8.0\Domino.AssemblyInfoInputs.cache
+C:\Users\mcast\OneDrive - Universidad Católica de Chile\Octavo semestre\Disenho detallado\Domino(1)\Domino\obj\Debug\net8.0\Domino.AssemblyInfo.cs
+C:\Users\mcast\OneDrive - Universidad Católica de Chile\Octavo semestre\Disenho detallado\Domino(1)\Domino\obj\Debug\net8.0\Domino.csproj.CoreCompileInputs.cache
+C:\Users\mcast\OneDrive - Universidad Católica de Chile\Octavo semestre\Disenho detallado\Domino(1)\Domino\obj\Debug\net8.0\Domino.dll
+C:\Users\mcast\OneDrive - Universidad Católica de Chile\Octavo semestre\Disenho detallado\Domino(1)\Domino\obj\Debug\net8.0\refint\Domino.dll
+C:\Users\mcast\OneDrive - Universidad Católica de Chile\Octavo semestre\Disenho detallado\Domino(1)\Domino\obj\Debug\net8.0\Domino.pdb
+C:\Users\mcast\OneDrive - Universidad Católica de Chile\Octavo semestre\Disenho detallado\Domino(1)\Domino\obj\Debug\net8.0\Domino.genruntimeconfig.cache
+C:\Users\mcast\OneDrive - Universidad Católica de Chile\Octavo semestre\Disenho detallado\Domino(1)\Domino\obj\Debug\net8.0\ref\Domino.dll
